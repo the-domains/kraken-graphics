@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kraken Graphics]]></title>
         <description><![CDATA[Kraken Graphics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://www.kraken-graphics.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 00:48:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 Nov 2015 01:09:37 GMT</lastBuildDate>
+        <atom:link href="http://www.kraken-graphics.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[First post in the new digs]]></title>
+            <description><![CDATA[<article><h1>First post in the new digs</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7de30e2-ca55-4d7d-81a4-829058f4ae33.JPG"></article>]]></description>
+            <link>http://www.kraken-graphics.com/first-post-in-the-new-digs/index.html</link>
+            <guid isPermaLink="false">8e62f1d7-674b-42ce-a0b5-67eb2d0e34bd</guid>
+            <pubDate>Tue, 03 Nov 2015 01:09:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My First Post]]></title>
             <description><![CDATA[<article><h1>My First Post</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9eae6c8b-7aae-4722-9c87-5bd764d19b9a.JPG"></article>]]></description>
-            <link>undefinedmy-first-post/index.html</link>
+            <link>http://www.kraken-graphics.com/my-first-post/index.html</link>
             <guid isPermaLink="false">2f1424f9-5a0c-438f-8ead-385e5b672356</guid>
             <pubDate>Tue, 03 Nov 2015 00:48:37 GMT</pubDate>
         </item>
