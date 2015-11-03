@@ -1,6 +1,6 @@
 name: Kraken Graphics
 favicon: null
-layout_spectrum: 0.8659244424197823
+layout_spectrum: 1
 typography_spectrum: 0.7080809285398573
 cta:
   domain: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.4470549919642508
+  brandStrength: 0
   lightness: 0.022513940930366516
   saturation: 0.6230966956354678
   rhythmicContrast: 0.5812760004773736
