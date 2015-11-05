@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-05T18:18:41.143Z'
-dateModified: '2015-11-05T18:18:26.763Z'
+datePublished: '2015-11-05T18:29:36.560Z'
+dateModified: '2015-11-05T18:21:58.389Z'
 title: Welcome aboard
+sourcePath: _posts/2015-11-05-welcome-aboard.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-05-welcome-aboard.md
-published: true
 url: welcome-aboard/index.html
 _type: Article
 
@@ -30,6 +30,7 @@ My name is Cody and I'm an artist. I get asked what kind of art I create and tha
 I'm looking forward to seeing where this goes and hope everyone enjoys it along the way.
 
 [Facebook][0] - [Instagram][1] - [Twitter][2] - [DeviantArt][3]
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ec99430-d15f-47de-bcec-e1f091e4d84c.png)
 
 [0]: https://www.facebook.com/cptnrotgutredbeard
 [1]: https://instagram.com/cptn_rotgut_redbeard/
