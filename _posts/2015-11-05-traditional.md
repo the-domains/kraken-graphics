@@ -6,17 +6,17 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-05T20:50:40.782Z'
-dateModified: '2015-11-05T20:46:26.897Z'
+datePublished: '2015-11-05T21:07:29.911Z'
+dateModified: '2015-11-05T21:07:24.216Z'
 title: Traditional
+sourcePath: _posts/2015-11-05-traditional.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-11-05-traditional.md
-published: true
 url: traditional/index.html
 _type: WebPage
 
