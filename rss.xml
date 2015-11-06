@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[Kraken Graphics]]></title>
         <description><![CDATA[Kraken Graphics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kraken-graphics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 20:56:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 21:00:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kraken-graphics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome aboard]]></title>
             <description><![CDATA[<article><h1>Welcome aboard</h1><p>Squid</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ec99430-d15f-47de-bcec-e1f091e4d84c.png"></article>]]></description>
-            <link>undefinedwelcome-aboard/index.html</link>
+            <link>https://thegrid.ai/kraken-graphics/welcome-aboard/index.html</link>
             <guid isPermaLink="false">b74d7876-d44e-45a5-875f-9aabf462bbf0</guid>
             <pubDate>Fri, 06 Nov 2015 20:56:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Facebook - Instagram - Twitter - DeviantArt - "Email</p></article>]]></description>
+            <link>https://thegrid.ai/kraken-graphics/contact/index.html</link>
+            <guid isPermaLink="false">aaa4f11e-d0a2-4fe9-8502-52c26822ef55</guid>
+            <pubDate>Fri, 06 Nov 2015 20:59:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
