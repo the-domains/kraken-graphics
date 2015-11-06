@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: ''
 inLanguage: null
 starred: true
 keywords: []
-description: "Alright, enough of the pirate references. Thanks for visiting my page. This is going to be the home of my artwork, traditional, digital, and everything in between.  My name is Cody and I'm an artist. I get asked what kind of art I create and that's a tough question to answer. I don't really have a specific medium or \"style\". The style I have is my own. I take things that are interesting, humorous, or downright odd and put them on paper or screen. I don't have any formal training; this is just a passion I've always had and have had the opportunity to foster.  I'm looking forward to seeing where this goes and hope everyone enjoys it along the way.  Facebook - Instagram - Twitter - DeviantArt"
-datePublished: '2015-11-06T18:09:32.955Z'
-dateModified: '2015-11-06T18:09:28.319Z'
+description: ''
+datePublished: '2015-11-06T20:56:47.444Z'
+dateModified: '2015-11-06T20:56:44.412Z'
 title: Welcome aboard
 sourcePath: _posts/2015-11-05-welcome-aboard.md
 published: true
@@ -18,7 +17,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: welcome-aboard/index.html
+_type: Article
 
 ---
 # Welcome aboard
