@@ -4,7 +4,7 @@
         <description><![CDATA[Kraken Graphics]]></description>
         <link>https://thegrid.ai/kraken-graphics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 18:03:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 18:05:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kraken-graphics/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Welcome aboard]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/kraken-graphics/welcome-aboard/index.html</link>
             <guid isPermaLink="false">b74d7876-d44e-45a5-875f-9aabf462bbf0</guid>
             <pubDate>Thu, 05 Nov 2015 20:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[First post in the new digs]]></title>
-            <description><![CDATA[<article><h1>First post in the new digs</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7de30e2-ca55-4d7d-81a4-829058f4ae33.JPG"></article>]]></description>
-            <link>https://thegrid.ai/kraken-graphics/first-post-in-the-new-digs/index.html</link>
-            <guid isPermaLink="false">8e62f1d7-674b-42ce-a0b5-67eb2d0e34bd</guid>
-            <pubDate>Tue, 03 Nov 2015 01:09:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
