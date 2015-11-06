@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kraken Graphics]]></title>
         <description><![CDATA[Kraken Graphics]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kraken-graphics/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 06 Nov 2015 18:10:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 06 Nov 2015 18:11:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kraken-graphics/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Digital]]></title>
+            <description><![CDATA[<article><h1>Digital</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/78225f2d-e86b-46ea-ac6c-eb4cfcf89e12.png"></article>]]></description>
+            <link>https://thegrid.ai/kraken-graphics/digital/index.html</link>
+            <guid isPermaLink="false">2575047a-2d68-4c20-a2ec-ee699228b943</guid>
+            <pubDate>Fri, 06 Nov 2015 18:10:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Traditional]]></title>
             <description><![CDATA[<article><h1>Traditional</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6096e23c-6f65-478c-a88e-c44b8ca64a9c.png"></article>]]></description>
-            <link>undefinedtraditional/index.html</link>
+            <link>https://thegrid.ai/kraken-graphics/traditional/index.html</link>
             <guid isPermaLink="false">c2a36c79-ff21-49cf-b504-3be749015a95</guid>
             <pubDate>Fri, 06 Nov 2015 18:10:22 GMT</pubDate>
         </item>
