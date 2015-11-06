@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-11-06T18:10:22.410Z'
-dateModified: '2015-11-06T18:10:18.449Z'
+datePublished: '2015-11-06T18:14:22.812Z'
+dateModified: '2015-11-06T18:14:06.934Z'
 title: Traditional
 sourcePath: _posts/2015-11-05-traditional.md
 published: true
@@ -18,7 +18,7 @@ publisher:
   url: null
   favicon: null
 url: traditional/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Traditional
